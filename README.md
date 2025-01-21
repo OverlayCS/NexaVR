@@ -5,5 +5,5 @@ The Second Part Is The Max Players (Up To 100)
 The Last Part Is The Game Mode Dont Worry About It To Much Just Keep It In Shared
 
 ```Csharp
-NexaVRManger.NexaRunner.ConnectToRoom("OverlayCS", 10, GameMode.Shared)
+NexaVRManger.ConnectToRoom("OverlayCS", 10, GameMode.Shared)
 ```
