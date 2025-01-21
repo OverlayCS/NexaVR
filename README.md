@@ -1,3 +1,3 @@
-```
-NexaVRMaanger.NexaRunner.ConnectToRoom("OverlayCS", 10, GameMode.Shared)
+```Csharp
+NexaVRManger.NexaRunner.ConnectToRoom("OverlayCS", 10, GameMode.Shared)
 ```
