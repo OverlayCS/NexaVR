@@ -16,3 +16,9 @@ Example:
 ```Csharp
 NexaVRManager.EnableCosmetic("", CosmeticType.Head);
 ```
+
+How to spawn a networked object that the position or roataion can be networked and set if they are or not
+example:
+```Csharp
+NexaVRManager.SpawnRoomObject(string ObjectName, vector3 spawnpostion, Quaternion startRotation, bool NetworkPosition, bool networkRotation);
+```
